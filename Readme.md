@@ -2,7 +2,7 @@
 
 Cybrex – фреймворк авторства **[Revekhrell](https://github.com/Revekhrell)**.
 
-![Cybrex](Resources/Logo.png){width=256px}
+<img src="Resources/Logo.png" width="256"></img>
 
 ---
 
