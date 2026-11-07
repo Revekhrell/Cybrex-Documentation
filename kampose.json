@@ -1,0 +1,13 @@
+{
+    "convention": "dotNet",
+    "outputDirectory": "Site",
+    "assemblies": [
+        "../Core/bin/Release/net10.0/Cybrex.Core.dll"
+    ],
+    "topicHierarchy": "directory",
+    "theme": "classic",
+    "themeSettings": {
+        "projectName": "Cybrex",
+        "faviconUri": "Icons/Cybrex.ico"
+    }
+}
