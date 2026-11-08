@@ -6,6 +6,16 @@ Cybrex – фреймворк авторства **[Revekhrell](https://github.c
 
 ---
 
+## Использование
+
+Чтобы активировать словари сообщений фремворка, при старте программы выполните следующий код:
+
+```csharp
+Cybrex.Core.Localization.Localizer.Initialize();
+```
+
+---
+
 ## Ссылки
 
 - **[API](~/api/index.html)**
